@@ -5,5 +5,5 @@
 ---
 
 * [单词](/words/README.md)
-	* [日常记录(2020)](/words/daily2020.md)
+	* [南瓜姐姐段子单词](/words/LanGua.md)
 * [语法](/grammar/README.md)
