@@ -43,3 +43,8 @@
 
 <font color=Blue>**undergo**</font> [ˌʌndəˈɡəʊ] <font color=red>**under·go**</font> **vt. 经历，经受；忍受** <br>
 <iframe height="50" width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=4512001&type=red" frameborder=0 allowfullscreen></iframe>
+
+## neutral
+
+<font color=Blue>**neutral**</font> [ˈnjuːtrəl]  **n. 中立国、adj. (neutral) 中立的；** <br>
+<font color=red>例：</font>to leave the car in neutral 将车的排挡置于空挡位<br>
